@@ -1,15 +1,15 @@
 # HTTP List Universities
-A Python script that creates a server to access a CSV file. You can add, remove and list the lines in the CSV file. It's implemented using Python and HTML with the purpose of using the HTTP functions: GET and POST.
+A Python script that creates a server to access a CSV file. You can add, remove and list the lines in the CSV file. It's implemented using Python and HTML with the purpose of using the HTTP functions, such as *GET* and *POST*.
 
-#### Running
-Run the scrip using Python 3.6:
+### Running
+Run the scrip using the Python 3.6:
 
 ```sh
-$ python server.py
+$ python3.6 server.py
 ```
 
-#### Accessing
-To access it, go to http://localhost:8000 in your browser, followed by:
+### Accessing
+To access it, go to http://localhost:8000 on your browser, followed by:
 
 **/list** : Lists all the universities in the CSV file.
 
