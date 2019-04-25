@@ -2,10 +2,10 @@
 A Python script that creates a server to access a CSV file. You can add, remove and list the lines in the CSV file. It's implemented using Python and HTML with the purpose of using the HTTP functions, such as *GET* and *POST*.
 
 ### Running
-Run the scrip using the Python 3.6:
+Run the script using the Python 3 or newer:
 
 ```sh
-$ python3.6 server.py
+$ python3 server.py
 ```
 
 ### Accessing
